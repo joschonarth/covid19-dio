@@ -1,2 +1,2 @@
-# covid19-dio
+# covid19-desafio-dio
 Desenvolvendo uma Progressive Web Application com React para mapear os dados do COVID19 pelo mundo
